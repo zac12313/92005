@@ -1,21 +1,21 @@
 .text1{text-align:center;font-family: Arial,Arial, sans-serif;max-font-size: 20px;color: navy;outline-style: auto;outline-color: yellowgreen;outline-offset:1px;padding:2px}
-
+/* Creates border for my text aswell as creating a centered text */
 h1{
     font-family: "Times New Roman", "Segoe UI Emoji", fantasy}
 body{font-family:'Times New Roman', Times, serif;
 background-color: skyblue;
 
 header{font-size: 20px;}}
+/*creates a speceifc font for the heading and bodynd creates the background color*/
 
 .video-container{display:flex;justify-content: center;align-items:center;height: 50vh }
-
+/*makes the youtube vedio centered aswell as making the height on the page at 50vh*/
 .nav-bar{background-color:lightyellow;padding:15px 0;text-align: center;font-family: Arial, sans-serif;margin:0;
     outline: black auto; outline-offset: 1px;
 }
 .nav-bar a{color:black;text-decoration: none;margin: 0 15px;font-weight: bold;}
 .nav-bar a:hover{text-decoration: underline}
-
+/*creates navbar colors, borders, a underline when links are clicked, and bolded text*/
 .heading-text{font-size:60px;Color:navy;padding:2px 0;
     font-family: "Agency FB", serif;}
-
-
+/*creates heading colors and text*/
