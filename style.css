@@ -1,11 +1,9 @@
-.text1{text-align:center;font-family: Arial,Arial, sans-serif;max-font-size: 20px;color: navy;outline-style: auto;outline-color: yellowgreen;outline-offset:1px;padding:2px}
+.text1{text-align:center;font-family: Arial,Arial, sans-serif;color: navy;outline-style: auto;outline-color: yellowgreen;outline-offset:1px;padding:2px}
 /* Creates border for my text aswell as creating a centered text */
 h1{
     font-family: "Times New Roman", "Segoe UI Emoji", fantasy}
 body{font-family:'Times New Roman', Times, serif;
-background-color: skyblue;
-
-header{font-size: 20px;}}
+background-color: skyblue;}header{font-size: 20px;}
 /*creates a speceifc font for the heading and body and creates the background color*/
 
 .video-container{display:flex;justify-content: center;align-items:center;height: 50vh }
