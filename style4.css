@@ -1,10 +1,12 @@
 body{background-color: #c2f3ff;}
+/*creates a backround color of light blue*/
 .nav-bar{background-color:lightyellow;padding:15px 0;text-align: center;font-family: Arial, sans-serif;margin:0;
     outline: black auto; outline-offset: 1px;
 }
 .nav-bar a{color:black;text-decoration: none;margin: 0 15px;font-weight: bold;}
 .nav-bar a:hover{text-decoration: underline}
-
+/*nav bar same as previous*/
 .video-container{display:flex;justify-content: center;align-items:center;height: 50vh }
+/* align the vedio to the center lf the page*/
 .Header{font-size:70px;text-align: center; font-family: "Times New Roman",sans-serif;font-weight: bold}
 td{border:1px solid black;padding:20px;text-align: center;font-size: 25px;font-family: Arial,sans-serif}
