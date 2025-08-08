@@ -1,13 +1,17 @@
-h1{font-size: 50px;
-color:gold}
+
 .Header2{font-family: sans-serif;font-size: large;font-weight: bold;color: coral;}
+/*creates the header that is bold and that is in a coral color*/
 .nav-bar{background-color:transparent;padding:15px 0;text-align: center;font-family: Arial, sans-serif;margin:0;
     outline: black auto; outline-offset: 1px;
 }
+
 .nav-bar a{color:black;text-decoration: none;margin: 0 15px;font-weight: bold;}
 .nav-bar a:hover{text-decoration: underline}
+/*creates a home button that blends into the background with a border*/
 body{font-family:Verdana, Geneva, Tahoma, sans-serif;
 background-color: sandybrown;}
+/*background color to represent maori colors*/
 p{font-size: 30px;font-family: Arial,sans-serif;font-weight: bold}
 p{border:1px solid black; padding: 20px;}
 header{text-align: center;font-size: 50px;font-weight: bold}
+/*centers header text*/

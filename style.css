@@ -6,7 +6,7 @@ body{font-family:'Times New Roman', Times, serif;
 background-color: skyblue;
 
 header{font-size: 20px;}}
-/*creates a speceifc font for the heading and bodynd creates the background color*/
+/*creates a speceifc font for the heading and body and creates the background color*/
 
 .video-container{display:flex;justify-content: center;align-items:center;height: 50vh }
 /*makes the youtube vedio centered aswell as making the height on the page at 50vh*/
